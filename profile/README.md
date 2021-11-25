@@ -22,7 +22,3 @@
     - issue受到组织人员同意后fork做出修补
 2. 在被合并的 pull request 下留言申请加入 fa-org 开源组织
 3. 您将收到加入 fa-org 组织的邀请
-
-## 其他
-
-项目发起者：[https://github.com/fawdlstty](https://github.com/fawdlstty)
