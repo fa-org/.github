@@ -2,6 +2,9 @@
 
 欢迎来到 Fa 编程语言开源项目组。此组织围绕 Fa 编程语言编译器、语言设计及文档方面，对相关资料托管并公开。
 
+- 开源组织地址
+    + [https://github.com/fa-org](https://github.com/fa-org)
+    + [https://gitee.com/falang](https://gitee.com/falang) （镜像）
 - 官方网站：[https://falang.org](https://falang.org)
 - 官方qq群：**1018390466**
 
